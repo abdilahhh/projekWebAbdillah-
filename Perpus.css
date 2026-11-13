@@ -1,0 +1,85 @@
+#header{
+  background-color: #7faae5;
+  color: white;
+  text-align: center;
+  padding: 25px;
+  border-radius:8px;
+}
+#menu{
+background-color: #7faae5;
+padding: 25px;
+text-align: center;
+border-radius:8px;
+}
+#menu a{
+  color: white;
+  text-decoration: none;
+  margin: 10px;
+}
+#beranda{
+  background-color: #91baba;
+  padding: 40px;
+  margin: 20px;
+  border-radius: 12px;
+  text-align: center;
+}
+#tentang{
+  background-color: #91baba;
+  padding: 25px;
+  margin: 20px;
+  border-radius: 12px;
+  text-align: center;
+}
+#koleksibuku{
+  background-color: #91baba;
+  padding: 25px;
+  margin: 20px;
+  border-radius: 12px;
+  text-align: center;
+}
+#layanan{
+  background-color:hwb(102 71% 19%);
+  padding:25px;
+  margin:20px;
+  border-radius:12px;
+  
+}
+#footer {
+   background-color: #7faae5;
+  color: white;
+  text-align: center;
+  padding: 15px;
+}
+.judul {
+  color:black;
+  text-align:center;
+}
+.kartu {
+  background-color: white;
+  display: inline-block;
+  width: 25%;
+  padding: 20px; 
+  margin: 10px;
+  border-radius: 12px;
+  vertical-align: top;
+  box-shadow: 0px 3px 8px black;
+}
+.tombol {
+  background-color:#1e40af;
+  padding:10px;
+  color:white;
+  text-decoration:none; 
+  border-radius:8px;
+}
+img{
+  display: block;
+  width: 200px;
+  height: 270px;
+  margin: 0 auto;
+}
+#Gambar{
+  display: block;
+  width: 400px;
+  height: 200px;
+  margin: 0 auti;
+}
